@@ -1,0 +1,24 @@
+*{
+    list-style: none;
+    font-family: sans-serif;
+}
+.social-icons li{
+    cursor: pointer;
+    font-size: .9em;
+}
+.social-icons li:nth-child(3) i{
+    color: #febf10ff;
+}
+.social-icons li:nth-child(3) span{
+    font-size: .8em;
+}
+.get-started{
+    background-color: #febf10ff;
+    text-align: center;
+}
+.search-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
