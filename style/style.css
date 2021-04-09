@@ -23,6 +23,7 @@
   background-color: var(--yellow);
   text-align: center;
   color: white;
+  /* height: 85vh; */
 }
 .search-form {
   display: flex;
